@@ -1,0 +1,33 @@
+_repo: The-Illustrated-Self-Instructor-in-Phrenology-and-Physiology_33223
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Fowler, O. S. (Orson Squire)
+    alias: Fowler, Orson Squire
+    birthdate: 1809
+    deathdate: 1887
+    gutenberg_agent_id: '36270'
+    url: http://www.gutenberg.org/2009/agents/36270
+  - agent_name: Fowler, L. N. (Lorenzo Niles)
+    alias: Fowler, Lorenzo Niles
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '36271'
+    url: http://www.gutenberg.org/2009/agents/36271
+description: ''
+gutenberg_issued: '2010-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33223'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Phrenology'
+title: The Illustrated Self-Instructor in Phrenology and Physiology
+url: http://www.gutenberg.org/ebooks/33223
